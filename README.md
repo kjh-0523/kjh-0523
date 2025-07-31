@@ -1,3 +1,12 @@
+<h1 align="center">
+  <img src="https://img.shields.io/badge/Hi🐢I'm_JiHo-44bd32?style=for-the-badge&logoColor=white" alt="Hi, I'm JiHo" />
+</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend_Developer-27ae60?style=flat-square" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4DB33D?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-42b883?style=flat-square&logo=vue.js&logoColor=white" />
+</p>
 <h1 align="center">Hi 🐢, I'm JiHo</h1>
 <p align="center">☕ 백엔드를 사랑하는 개발자 | Spring Boot · MySQL · Vue.js</p>
 
@@ -37,8 +46,8 @@
 
 ### 🔗 Links
 
-- 📝 **Blog**: [https://jiho-dev-log.com](https://velog.io/@nemo00528/posts)
-- 📌 **Portfolio Notion**: [https://www.notion.so/1ff288a7110d80c79ddae390c1e86572?source=copy_link](https://www.notion.so/1ff288a7110d80c79ddae390c1e86572?source=copy_link)
+- 📝 **Blog**: [벨로그🐢](https://velog.io/@nemo00528/posts)
+- 📌 **Portfolio Notion**: [노션 포트폴리오🖊️](https://www.notion.so/1ff288a7110d80c79ddae390c1e86572?source=copy_link)
 - 📫 **Email**: `nemo00528@gmail.com`
 
 ---
