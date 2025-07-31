@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm JiHo</h1>
+<h1 align="center">Hi 🐢, I'm JiHo</h1>
 <p align="center">☕ 백엔드를 사랑하는 개발자 | Spring Boot · MySQL · Vue.js</p>
 
 ---
@@ -30,8 +30,8 @@
 
 ### 📊 GitHub Stats
 
-![JiHo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiho123&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiho123&layout=compact)
+![JiHo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kjh-0523&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kjh-0523&layout=compact)
 
 ---
 
