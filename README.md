@@ -1,7 +1,8 @@
 <h1 align="center">
-  <img src="https://img.shields.io/badge/Hi🐢I'm_JiHo-44bd32?style=for-the-badge&logoColor=white" alt="Hi, I'm JiHo" />
+  <img src="https://img.shields.io/badge/Hi🐢I'm_JiHo-white?style=for-the-badge&logo=Spring&logoColor=44bd32&labelColor=44bd32" alt="Hi, I'm JiHo" />
 </h1>
 <p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Backend_Developer-27ae60?style=flat-square" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4DB33D?style=flat-square&logo=mysql&logoColor=white" />
