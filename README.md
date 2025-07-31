@@ -23,7 +23,7 @@
 
 ### 🏆 Baekjoon Online Judge
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=your_boj_username)](https://solved.ac/nemo00528)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nemo00528)](https://solved.ac/nemo00528)
 
 
 ---
