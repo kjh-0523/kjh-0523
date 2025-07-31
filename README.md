@@ -1,6 +1,6 @@
-<h1 align="center">
-  <img src="https://img.shields.io/badge/Hi🐢I'm_JiHo-white?style=for-the-badge&logo=Spring&logoColor=44bd32&labelColor=44bd32" alt="Hi, I'm JiHo" />
-</h1>
+<h1 align="center">Hi 🐢, I'm JiHo</h1>
+<p align="center">☕ 백엔드를 사랑하는 개발자 | Spring Boot · MySQL · Vue.js</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Backend_Developer-27ae60?style=flat-square" />
@@ -10,8 +10,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws" />
 </p>
-<h1 align="center">Hi 🐢, I'm JiHo</h1>
-<p align="center">☕ 백엔드를 사랑하는 개발자 | Spring Boot · MySQL · Vue.js</p>
 
 ---
 
