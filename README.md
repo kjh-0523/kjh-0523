@@ -6,6 +6,8 @@
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4DB33D?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Vue.js-42b883?style=flat-square&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws" />
 </p>
 <h1 align="center">Hi 🐢, I'm JiHo</h1>
 <p align="center">☕ 백엔드를 사랑하는 개발자 | Spring Boot · MySQL · Vue.js</p>
@@ -16,17 +18,6 @@
 - 🔍 백엔드 아키텍처와 데이터 기반 서비스에 관심이 많아요
 - 🧠 요즘 배우는 것: **TestCode**
 - 🚀 목표: 사용성과 확장성을 고려한 서비스 설계, 사용자 중심의 서비스
-
----
-
-### 🛠 Tech Stack
-
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=spring-boot)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws)
 
 ---
 
